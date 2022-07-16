@@ -144,11 +144,11 @@
       "condition": "Interagir avec Monoko en utilisant l'effet Feu de circulation"
     },
     "a": {
-      "name": "Scream of the Captured",
+      "name": "Cri de la capturée",
       "condition": "Marcher sur la tile あ dans le Number World"
     },
     "eye": {
-      "name": "Eye of the Captured",
+      "name": "Œil de la capturée",
       "condition": "Marcher sur la tile œil dans le Number World"
     },
     "bottles": {
@@ -947,7 +947,7 @@
     },
     "blood_ghosts": {
       "name": "Fantômes saignants",
-      "description": "Tu n'aurais pas du faire ça.",
+      "description": "Tu n'aurais pas dû faire ça.",
       "condition": "Activer l'événement du Sacrifice Sanguin dans le Blood World"
     },
     "scourge_of_guilt": {
@@ -1119,6 +1119,51 @@
     "dojo": {
       "name": "Souvenir",
       "condition": "Incendier la zone spatiale présente dans le Dojo"
+    },
+    "voxed": {
+      "name": "Voxed",
+      "description": "Tue le! Et tout de suite!",
+      "condition": "Tronçonner le PNJ à la Voxel Island"
+    },
+    "green_tea_cake": {
+      "name": "Gâteau au thé vert",
+      "condition": "Acheter un gâteau au thé vert le la pâtisserie dans les Shop Ruins"
+    },
+    "principal": {
+      "name": "Pas de moto dans les couloirs!",
+      "condition": "Se faire attraper et gronder par le principal dans la School en utilisant la Moto"
+    },
+    "car_crash": {
+      "name": "Coup du lapin",
+      "description": "Ce jeu explose!",
+      "condition": "Fracasser la voiture dans l'Hidden Garage"
+    },
+    "wedding_cake": {
+      "name": "Gâteau trois étages",
+      "description": "Arriverez-vous à le manger en entier?",
+      "condition": "Obtenir le gâteau de mariage dans un distributeur automatique"
+    },
+    "green_monster": {
+      "name": "Monstre vert",
+      "condition": "Interagir avec le monstre vert dans le Foliage Estate"
+    },
+    "nail_lady": {
+      "name": "Clou à la dérive",
+      "description": "Percuter le clou à la dérive",
+      "condition": "Interagir avec la Dame Clou dans le cercle de clous"
+    },
+    "cmyk": {
+      "name": "Combo cartouches d'encre",
+      "description": "Pas assez d'encre",
+      "condition": "Acheter quelque chose dans les 3 distributeurs automatiques du CMYK Tiles World"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "Honorer la mort dans Dream Mexico"
+    },
+    "crown_of_sorrow": {
+      "name": "Couronne de la tristesse",
+      "condition": "Entrer dans la salle à la fin de la route du Spirit Capital en {TIME} ou moins en course contre-la-montre"
     }
   },
   "flow": {
@@ -1178,6 +1223,11 @@
       "name": "Chaîne sourire",
       "description": "Mettons un sourire sur ce visage!",
       "condition": "Interagir avec la télé dans la salle de Sabitsuki jusqu'à ce qu'un sourire apparaîsse à l'écran"
+    },
+    "orange": {
+      "name": "Meilleurs amis pour la vie",
+      "description": "Peut-être y a-t-il quelque chose de bon dans ce monde",
+      "condition": "Débloquer le thème de menu Orange. Si vous l'avez déjà débloqué, retournez là où vous l'avez trouvé."
     }
   },
   "prayers": {
@@ -1255,6 +1305,10 @@
       "name": "Lever de lune",
       "description": "Quelle vue!",
       "condition": "Atteindre la Jovian Moon"
+    },
+    "flo": {
+      "name": "Au Flo de chacune",
+      "condition": "Acheter le maillot de bain dans les bains publics"
     }
   },
   "someday": {
@@ -1263,7 +1317,7 @@
       "condition": "Rencontrer l'alien géant"
     },
     "dance_flood": {
-      "name": "Dance Flood",
+      "name": "Bain de danses",
       "condition": "Actionner l'interrupteur aquatique au Dance Flood"
     },
     "party": {
@@ -1364,6 +1418,15 @@
     "static": {
       "name": "Purement statique",
       "condition": "Voir l'événement du Rêve Corrodé"
+    },
+    "pinball_machine": {
+      "name": "En bas du tablier",
+      "description": "Allons faire quelque parties de pinball!",
+      "condition": "Visiter la Pinball Machine"
+    },
+    "hermit_crab": {
+      "name": "Bernard-l'ermite",
+      "condition": "Obtenir un bernard-l'ermite dans un distributeur automatique"
     }
   },
   "braingirl": {
@@ -1398,7 +1461,7 @@
     },
     "syncopation": {
       "name": "Syncopation",
-      "condition": "Se tenir devant le train dans Le Jazzy Train Bleu pour l'empêcher de bouger"
+      "condition": "Visiter Le Jazzy Train Bleu"
     },
     "epacse": {
       "name": "SUDOXE",

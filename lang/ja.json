@@ -1119,6 +1119,51 @@
     "dojo": {
       "name": "形見",
       "condition": "青竹の短冊エリアを燃やす"
+    },
+    "voxed": {
+      "name": "Voxed",
+      "description": "殺せ!今すぐ!",
+      "condition": "ブロック島で宇宙人を殺害する"
+    },
+    "green_tea_cake": {
+      "name": "抹茶ケーキ",
+      "condition": "廃墟商店のケーキ屋で抹茶ケーキを買う"
+    },
+    "principal": {
+      "name": "廊下を走るな",
+      "condition": "校内の通路をバイクで疾走し𠮟責を受ける"
+    },
+    "car_crash": {
+      "name": "むちうち",
+      "description": "このゲームぶっ飛んでる",
+      "condition": "FCバグステージの地下ガレージで事故を起こす"
+    },
+    "wedding_cake": {
+      "name": "三段ケーキ",
+      "description": "これ...一人で食べるの?",
+      "condition": "自動販売機でウエディングケーキを買う"
+    },
+    "green_monster": {
+      "name": "緑の怪物",
+      "condition": "森廻で緑の生物と交流する"
+    },
+    "nail_lady": {
+      "name": "Ms.ゲッペル",
+      "description": "出る釘を打つ",
+      "condition": "釘ロボにいるドレスの女性に話しかける"
+    },
+    "cmyk": {
+      "name": "Ink Cartridge Combo",
+      "description": "インクが足りない",
+      "condition": "nOnAmEにある三台の自動販売機を使用する"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "メヒコで花を手向ける"
+    },
+    "crown_of_sorrow": {
+      "name": "悲壮の冠",
+      "condition": "Time Trial Modeで{TIME}以内に断崖の小部屋に到達する"
     }
   },
   "flow": {
@@ -1178,6 +1223,11 @@
       "name": "笑顔ちゃんねる",
       "description": "Let's put a smile on that face!",
       "condition": "さびつきの部屋にあるテレビで笑顔が表示されるまで操作する"
+    },
+    "orange": {
+      "name": "永遠の親友",
+      "description": "この世界にも良いことがあるかもしれない",
+      "condition": "オレンジのメニューテーマを解除する、すでに解除済みの場合は解除した場所に行く"
     }
   },
   "prayers": {
@@ -1255,6 +1305,10 @@
       "name": "月の出",
       "description": "なんて素晴らしい景色！",
       "condition": "Jovian Moonに到達する"
+    },
+    "flo": {
+      "name": "Go With the Flo",
+      "condition": "Purchase the bathing suit at the bath house"
     }
   },
   "someday": {
@@ -1364,6 +1418,15 @@
     "static": {
       "name": "Pure Static",
       "condition": "Corroded Dreamのイベントを見る"
+    },
+    "pinball_machine": {
+      "name": "Down the Apron",
+      "description": "ピンボールで遊ぼう!",
+      "condition": "ピンボールゲームを見に行く"
+    },
+    "hermit_crab": {
+      "name": "カクレヤドカリ",
+      "condition": "自動販売機でヤドカリを手に入れる"
     }
   },
   "braingirl": {
@@ -1398,19 +1461,19 @@
     },
     "syncopation": {
       "name": "Syncopation",
-      "condition": "Stand in front of the train in Le Jazzy Train Bleu to stop it from moving"
+      "condition": "Jazzy Train Bleuに到達する"
     },
     "epacse": {
       "name": "SUDOXE",
-      "condition": "Visit the EPACSE Launch Islands and dock your boat at one of the piers"
+      "condition": "EPACSE Launch Islandsで適当な桟橋にボートを停泊させる"
     },
     "guitar": {
-      "name": "Hair Metal",
-      "condition": "Find and play the guitar in Danae's Bad Hair Day"
+      "name": "ヘアーメタル",
+      "condition": "Danaeに寝癖が付いている日にギターを探して弾く"
     },
     "rainbow_screw": {
       "name": "One of Us! One of Us!",
-      "condition": "Use the Screw key to screw into the ground at the Rainbow Screw Floor"
+      "condition": "Rainbow Screw Floorでスパナを使って地面にねじ込む"
     }
   }
 }

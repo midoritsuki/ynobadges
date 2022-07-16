@@ -36,7 +36,7 @@
     "zolotl": {
       "name": "O Réquiem",
       "description": "No final que sobrou foi você, sua propria sombra e um infinito deserto com um ardente sol, do pó ao pó\n\n- O Número 12 \"Réquiem\" do codinome Xolotl",
-      "condition": "Be Zolotl"
+      "condition": "Zolotl 是也"
     }
   },
   "yume": {
@@ -229,28 +229,28 @@
       "condition": "在梦远征及无尽流浪中踏遍 99% 的地图"
     },
     "vm": {
-      "name": "Vending Machine Finder",
-      "condition": "Complete 5 Vending Machine Finder expeditions"
+      "name": "自贩机猎人",
+      "condition": "完成 5 次自贩机远征"
     },
     "vm_bronze": {
-      "name": "Bronze Vending Machine Finder",
-      "condition": "Complete 10 Vending Machine Finder expeditions"
+      "name": "青铜自贩机猎人",
+      "condition": "完成 10 次自贩机远征"
     },
     "vm_silver": {
-      "name": "Silver Vending Machine Finder",
-      "condition": "Complete 25 Vending Machine Finder expeditions"
+      "name": "白银自贩机猎人",
+      "condition": "完成 25 次自贩机远征"
     },
     "vm_gold": {
-      "name": "Gold Vending Machine Finder",
-      "condition": "Complete 50 Vending Machine Finder expeditions"
+      "name": "黄金自贩机猎人",
+      "condition": "完成 50 次自贩机远征"
     },
     "vm_platinum": {
-      "name": "Platinum Vending Machine Finder",
-      "condition": "Complete 100 Vending Machine Finder expeditions"
+      "name": "铂金自贩机猎人",
+      "condition": "完成 100 次自贩机远征"
     },
     "vm_diamond": {
-      "name": "Diamond Vending Machine Finder",
-      "condition": "Complete 200 Vending Machine Finder expeditions"
+      "name": "钻石自贩机猎人",
+      "condition": "完成 200 次自贩机远征"
     },
     "exp_amulet": {
       "name": "远征护身符",
@@ -931,9 +931,9 @@
       "condition": "抵达下列地点: 肉迷宫, 里青腕道路, 市街地, 雾之湖, 白色蘑菇世界, 溶岩山, 彩块世界, 八边形网格世界（中断的道路）, 便当世界, 熵之地牢, 彩虹之塔, 以及Zalgo事件的最终房间"
     },
     "poker": {
-      "name": "赌博区域",
+      "name": "赌博区",
       "description": "这种游戏十赌十输",
-      "condition": "进入拒绝之道的赌博区域"
+      "condition": "进入拒绝之道的赌博区"
     },
     "rainbow_ruins": {
       "name": "彩虹胸针",
@@ -1117,6 +1117,51 @@
     "dojo": {
       "name": "纪念物",
       "condition": "烧毁道场的太空区域"
+    },
+    "voxed": {
+      "name": "体㔄",
+      "description": "干掉它！立刻马上！",
+      "condition": "锯掉方块岛的npc"
+    },
+    "green_tea_cake": {
+      "name": "绿茶蛋糕",
+      "condition": "在废墟商店的蛋糕店购买绿茶蛋糕"
+    },
+    "principal": {
+      "name": "走廊禁止飙车",
+      "condition": "因在学校走廊骑摩托被主任训斥"
+    },
+    "car_crash": {
+      "name": "上保险没？",
+      "description": "泥头车开创！",
+      "condition": "把地下停车场的车创了"
+    },
+    "wedding_cake": {
+      "name": "三层莓蛋糕",
+      "description": "……必须一个人吃完吗？",
+      "condition": "从自贩机里买到婚庆蛋糕"
+    },
+    "green_monster": {
+      "name": "绿色怪物",
+      "condition": "调查森徊的绿色生物"
+    },
+    "nail_lady": {
+      "name": "旋转螺钉",
+      "description": "钉紧点儿",
+      "condition": "在钉圈内与跳舞的女子互动"
+    },
+    "cmyk": {
+      "name": "墨盒",
+      "description": "余料不足",
+      "condition": "从nOnAmE的3台自贩机处购物"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "在墨西哥的葬礼上献花"
+    },
+    "crown_of_sorrow": {
+      "name": "哀怨之冠",
+      "condition": "在计时模式下，于 {TIME} 内抵达断崖车道的尽头的房间"
     }
   },
   "flow": {
@@ -1163,7 +1208,7 @@
       "condition": "进入年轻通道和微生物世界"
     },
     "attack_smile": {
-      "name": "为何这么严肃？",
+      "name": "Why So Serious?",
       "description": "\"You're a sick girl, but I'll see you again.\"",
       "condition": "迫使Smile保护他的妹妹"
     },
@@ -1176,6 +1221,11 @@
       "name": "微笑频道",
       "description": "脸上来点儿笑吧!",
       "condition": "反复与铁锈子房间中的电视互动，直到屏幕上出现一个微笑"
+    },
+    "orange": {
+      "name": "永远的好朋友",
+      "description": "最后的温柔",
+      "condition": "解锁橙色菜单主题。若已解锁，请前往获取它的位置。"
     }
   },
   "prayers": {
@@ -1253,6 +1303,10 @@
       "name": "明月初升",
       "description": "把酒问青天",
       "condition": "抵达木卫"
+    },
+    "flo": {
+      "name": "随波逐流",
+      "condition": "在澡堂购买浴袍"
     }
   },
   "someday": {
@@ -1362,6 +1416,15 @@
     "static": {
       "name": "纯噪点",
       "condition": "观看侵蚀之梦事件"
+    },
+    "pinball_machine": {
+      "name": "进入发射坡道",
+      "description": "来玩弹珠机吧！",
+      "condition": "拜访弹珠机"
+    },
+    "hermit_crab": {
+      "name": "寄居蟹",
+      "condition": "从自贩机内买到寄居蟹"
     }
   },
   "braingirl": {
@@ -1396,7 +1459,7 @@
     },
     "syncopation": {
       "name": "切分音",
-      "condition": "在蓝色爵士火车里，站在火车的前方使其停下来"
+      "condition": "拜访 Le Jazzy Train Bleu"
     },
     "epacse": {
       "name": "SUDOXE",
